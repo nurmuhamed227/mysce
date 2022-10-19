@@ -1,0 +1,7 @@
+.images{
+background-image: url(../images/photo_2022-10-04_22-57-54.jpg);
+background-size: cover;
+height: 100pc;
+
+position: relative;
+}
